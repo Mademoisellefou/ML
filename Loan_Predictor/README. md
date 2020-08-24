@@ -1,0 +1,14 @@
+##Loan Prediction Dataset
+Para que las personas que quieran acceder a préstamos ,deben ser aprobados por las entidades pero se hacen ciertas evaluaciones de préstamos bancarios convencionales "puntaje crediticio".
+##LOANS AND MACHINE LEARNING
+##La etapa 1 
+Se formula como un problema de clasificación binaria con el objetivo de predecir si debemos darle un préstamo a alguien o no dependiendo de su información.
+##La etapa 2
+Se formula como un problema de clasificacion haciendo uso de algoritmos de la libreria sklearn como ser:evergreen_tree:  :deciduous_tree: Árboles de decisión son muy rápido, no es necesario escalar los datos, se pueden visualizar y explicar fácilmente.RandomForestClassifier casi siempre funcionan mejor que un solo árbol de decisiones,KNeighborsClassifier no se asume nada es buen clasificador para dataset pequeños,LogisticRegression es apropiado por que la variable dependiente solo tendra dos opciones.
+##Bibliografia:
+Introduction to Machine Learning with Python, A Guide for Data Scientists – Andreas C. Müller, Sarah Guido
+https://quantdare.com/10-reasons-for-loving-nearest-neighbors-algorithm/
+:ear_of_rice:
+
+Dataset:
+https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset
